@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.title{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+}
+.paragraph{
+text-align: center;
+}
+.row{
+    display: flex;
+    flex: wrap;
+}
+.box1{
+    width: 200px;
+    height: 57px;
+    border: solid gray;
+    border-radius: 10%;
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+
+}
+.box2{
+    width: 200px;
+    height:57px;
+    border: solid gray;
+    border-radius: 10%;
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+   
+}
+.box3{
+    width:200px;
+    height: 57px;
+    border: solid gray;
+    border-radius: 10%;
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+}
+.box4{
+    width: 200px;
+    height:57px;
+    border: solid gray;
+    border-radius: 10%;
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+}
